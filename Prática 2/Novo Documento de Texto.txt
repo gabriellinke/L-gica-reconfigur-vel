@@ -1,0 +1,3 @@
+Conta de 00:00 até 59:99
+RST -> Quando ativado o cronometro trava em 00:00
+START/STOP -> Pausa o cronômetro
